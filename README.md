@@ -1,6 +1,6 @@
 # 🚀 NGL Spam Sender
 
-![banner](https://i.ibb.co/4JkY5tC/banner-ngl.png)
+![banner](https://i.top4top.io/p_3543r2yty1.jpg)
 
 > Script sederhana untuk mengirim pesan anonim ke akun [NGL.link](https://ngl.link) secara otomatis.  
 > Dibuat dengan ❤️ oleh [Irfa](https://github.com/irfa12345678).
