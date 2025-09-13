@@ -23,3 +23,17 @@ cd spam-ngl
 
 # install dependency
 pip install -r requirements.txt
+🚀 Cara Pakai
+
+```python3 ngl_spam.py
+
+Lalu masukkan:
+
+1. Username target (contoh: irfa123)
+
+
+2. Pesan yang mau dikirim
+
+
+3. Jumlah pengiriman
+
